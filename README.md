@@ -1,6 +1,6 @@
 # Library-DB-7
 
-# 👁 Task 7 – SQL Views in Library Management System
+#  Task 7 – SQL Views in Library Management System
 
 ##  Objective
 
